@@ -1,4 +1,4 @@
-This are the files for the project 1 in the font end web develper treehouse series.
+This are the files for the project 1 in the font end web developer treehouse series.
 
 "My personal profile page".
 
